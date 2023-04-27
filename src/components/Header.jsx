@@ -29,7 +29,7 @@ function Header(args) {
         </NavbarBrand>
         <NavbarToggler onClick={toggle} />
         <Collapse isOpen={isOpen} navbar>
-          <Nav className="me-auto navCustom" navbar>
+          <Nav className="me-auto navCustom justify-content-center" navbar>
             <NavItem>
               <NavLink>{t("h1")}</NavLink>
             </NavItem>
@@ -45,13 +45,7 @@ function Header(args) {
                   <div>
                     <img src={phone} alt="" />
                   </div>
-                  <div>0555555555</div>
-                </div>
-                <div className="nav-phone">
-                  <div>
-                    <img src={phone} alt="" />
-                  </div>
-                  <div>0777777777</div>
+                  <div>0709213599</div>
                 </div>
               </NavLink>
             </NavItem>

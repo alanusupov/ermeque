@@ -762,4 +762,10 @@ button {
   font-size: 20px;
   text-align: center;
 }
+
+.navCustom {
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
 /*# sourceMappingURL=main.css.map */

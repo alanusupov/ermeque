@@ -28,11 +28,7 @@ function Footer() {
             </p>
             <p className="footer-subitem">
               <img src={phone} alt="" />
-              0555555555
-            </p>
-            <p className="footer-subitem">
-              <img src={phone} alt="" />
-              0555777555
+              0709213599
             </p>
           </div>
 
